@@ -1,10 +1,10 @@
 # Hi, I'm Anshuman Nayan 👋
 
-I'm an ML/AI developer from **Jaipur, India** 🇮🇳. I build AI applications and contribute to open-source scientific Python projects.
+I'm a data science and ML/AI enthusiast from **Jaipur, India** 🇮🇳. I love turning data into insights and building AI applications.
 
 - 🔭 Building **[exam-prep-ai](https://github.com/anshuman83-40/exam-prep-ai)**, a RAG study assistant over handwritten notes
-- 🧬 Contributing to open source: **DeepChem**, **pyaptamer**, **FOSSASIA VoxBento**, **SBOL-utilities**, **fortls**
-- 📈 Interested in causal ML, drug discovery and LLM tooling
+- 📊 Data science: predictive modelling, explainable ML (SHAP) and causal uplift modelling
+- 📈 Interested in machine learning, causal inference, drug discovery and LLM tooling
 - 📍 Based in Jaipur, India
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshuman-nayan-22a588273/)
 
@@ -29,10 +29,6 @@ I'm an ML/AI developer from **Jaipur, India** 🇮🇳. I build AI applications 
 | [churn-retention-optimizer](https://github.com/anshuman83-40/churn-retention-optimizer) | Churn prediction plus causal uplift modelling: who will leave, why, and who is worth a retention offer | XGBoost, SHAP, FastAPI |
 | [ai-trading-platform](https://github.com/anshuman83-40/ai-trading-platform) | TradePulse: AI trading dashboard for Indian stocks with live NSE prices, technical signals and news sentiment | Python, HTML/JS |
 | [focusly-app](https://github.com/anshuman83-40/focusly-app) | Mobile-friendly to-do list and meal tracker with a nutrition calculator and offline Android install | HTML/JS, PWA |
-
-## 🌍 Open-source contributions
-
-[DeepChem](https://github.com/deepchem/deepchem) · [pyaptamer](https://github.com/gc-os-ai/pyaptamer) · [FOSSASIA VoxBento](https://github.com/fossasia/voxbento) · [SBOL-utilities](https://github.com/SynBioDex/SBOL-utilities) · [fortls](https://github.com/fortran-lang/fortls) · [JdeRobot](https://github.com/JdeRobot/RoboticsInfrastructure) · [AOSSIE Gitcord](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot)
 
 ## 📊 GitHub stats
 
