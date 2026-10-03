@@ -1,4 +1,4 @@
-# Hi, I'm Anshuman 👋
+# Hi, I'm Anshuman Nayan 👋
 
 I'm an ML/AI developer from **Jaipur, India** 🇮🇳. I build AI applications and contribute to open-source scientific Python projects.
 
@@ -6,6 +6,9 @@ I'm an ML/AI developer from **Jaipur, India** 🇮🇳. I build AI applications 
 - 🧬 Contributing to open source: **DeepChem**, **pyaptamer**, **FOSSASIA VoxBento**, **SBOL-utilities**, **fortls**
 - 📈 Interested in causal ML, drug discovery and LLM tooling
 - 📍 Based in Jaipur, India
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshuman-nayan-22a588273/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Nayan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-nayan-22a588273/)
 
 ## 🛠️ Tech stack
 
