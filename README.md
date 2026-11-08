@@ -50,6 +50,8 @@ using causal uplift modelling.
 | [relaycast](https://github.com/AgentWorkforce/relaycast) | [Serve `DELETE /v1/nodes/:name` on the self-host engine](https://github.com/AgentWorkforce/relaycast/pull/562) |
 | [trim-1](https://github.com/caveman-ai/trim-1) | [End marker lines in CRLF for CRLF input](https://github.com/caveman-ai/trim-1/pull/4) |
 
+**In review:** [ceph/ceph-nvmeof](https://github.com/ceph/ceph-nvmeof/pulls?q=is%3Apr+author%3Aanshuman83-40) (2 approved), [DeepChem](https://github.com/deepchem/deepchem/pull/5193), [QuTiP](https://github.com/qutip/qutip-qtrl/pull/68), [SBOL-utilities](https://github.com/SynBioDex/SBOL-utilities/pulls?q=is%3Apr+author%3Aanshuman83-40) and more.
+
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
