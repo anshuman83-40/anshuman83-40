@@ -6,7 +6,7 @@ deployed app, and contribute to open-source Python libraries.
 - 🧠 Built a **neural network from scratch in NumPy** (hand-written backpropagation, Adam, calibration) that
   predicts customer churn *and* how much a retention offer helps
 - 📊 Interested in causal inference, explainable ML and LLM tooling
-- 🌍 **19 merged pull requests** in open-source projects including kornia, aeon, scikit-hep/uproot5 and FOSSASIA
+- 🌍 **20 merged pull requests** in open-source projects including kornia, aeon, scikit-hep/uproot5 and FOSSASIA
 - 📫 [LinkedIn](https://www.linkedin.com/in/anshuman-nayan-22a588273/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Nayan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-nayan-22a588273/)
@@ -35,7 +35,7 @@ using causal uplift modelling.
 
 ## 🌍 Open-source contributions
 
-19 merged pull requests across 10 projects:
+20 merged pull requests across 10 projects:
 
 | Project | Merged contribution |
 |---|---|
@@ -43,7 +43,7 @@ using causal uplift modelling.
 | [aeon](https://github.com/aeon-toolkit/aeon) | [Use `check_y` output in continuous anomaly detection metrics](https://github.com/aeon-toolkit/aeon/pull/3887) |
 | [scikit-hep/uproot5](https://github.com/scikit-hep/uproot5) | [Accept storage options in create, recreate and update](https://github.com/scikit-hep/uproot5/pull/1743) |
 | [openzim/python-scraperlib](https://github.com/openzim/python-scraperlib) | [Rewrite the poster attribute when rewriting HTML](https://github.com/openzim/python-scraperlib/pull/347), [keep consecutive slashes when normalizing URLs](https://github.com/openzim/python-scraperlib/pull/344) |
-| [AOSSIE Gitcord](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot) | [Reject invalid GitHub usernames](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/126), [escape PR titles in the weekly digest](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/130), [re-check activity after a reminder](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/153) |
+| [AOSSIE Gitcord](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot) | [Reject invalid GitHub usernames](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/126), [escape PR titles in the weekly digest](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/130), [re-check activity after a reminder](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/153), [match GitHub usernames case-insensitively](https://github.com/AOSSIE-Org/Gitcord-GithubDiscordBot/pull/189) |
 | [FOSSASIA voxbento](https://github.com/fossasia/voxbento) | 4 UI pull requests moving inline styles to classes ([#661](https://github.com/fossasia/voxbento/pull/661), [#662](https://github.com/fossasia/voxbento/pull/662), [#695](https://github.com/fossasia/voxbento/pull/695), [#719](https://github.com/fossasia/voxbento/pull/719)), [validate OAuth client registration input](https://github.com/fossasia/voxbento/pull/735), [reconnect the embed captions socket](https://github.com/fossasia/voxbento/pull/993) |
 | [openGym](https://github.com/DuarteSantos8/openGym) | [Closable "no server" connection line](https://github.com/DuarteSantos8/openGym/pull/462) |
 | [Sugar Labs Music Blocks](https://github.com/sugarlabs/musicblocks) | [Fix changed-octave badges](https://github.com/sugarlabs/musicblocks/pull/10047), [fix the Key Namer award](https://github.com/sugarlabs/musicblocks/pull/9771) |
